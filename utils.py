@@ -1,7 +1,7 @@
 import pandas as pd
 import plotly.express as px
 
-DEFAULT_COLOR_SEQ = px.colors.sequential.Viridis
+DEFAULT_COLOR_SEQ = px.colors.sequential.GnBu
 
 
 def is_valid_postal_code(postal_code):

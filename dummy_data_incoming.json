@@ -2,43 +2,50 @@
     {
         "name": "Concrete",
         "area": 17512.98,
-        "reusability": "low reusability",
-        "recyclability": "low recyclability"
+        "structural": true,
+        "primary_reuse": "Downcycling",
+        "deconstruction_feasibility": "Difficult to Deconstruct"
     },
     {
         "name": "Steel",
         "area": 815.32,
-        "reusability": "medium reusability",
-        "recyclability": "high recyclability"
+        "structural": true,
+        "primary_reuse": "Recycling",
+        "deconstruction_feasibility": "Moderately Deconstructable"
     },
     {
         "name": "Glass",
         "area": 10007.80,
-        "reusability": "low reusability",
-        "recyclability": "high recyclability"
+        "structural": false,
+        "primary_reuse": "Downcycling",
+        "deconstruction_feasibility": "Moderately Deconstructable"
     },
     {
         "name": "Wood Flooring",
         "area": 5857.15,
-        "reusability": "high reusability",
-        "recyclability": "medium recyclability"
+        "structural": false,
+        "primary_reuse": "Repurposing",
+        "deconstruction_feasibility": "Easily Deconstructed"
     },
     {
         "name": "Carpet",
         "area": 4360.21,
-        "reusability": "low reusability",
-        "recyclability": "low recyclability"
+        "structural": false,
+        "primary_reuse": "Downcycling",
+        "deconstruction_feasibility": "Easily Deconstructed"
     },
     {
         "name": "Acoustic Ceiling Tiles",
         "area": 9018.11,
-        "reusability": "medium reusability",
-        "recyclability": "medium recyclability"
+        "structural": false,
+        "primary_reuse": "Repurposing",
+        "deconstruction_feasibility": "Easily Deconstructed"
     },
     {
         "name": "Drywall",
         "area": 22458.76,
-        "reusability": "medium reusability",
-        "recyclability": "medium recyclability"
+        "structural": false,
+        "primary_reuse": "Recycling",
+        "deconstruction_feasibility": "Easily Deconstructed"
     }
 ]
