@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Concrete",
+        "area": 17512.98,
+        "reusability": "low reusability",
+        "recyclability": "low recyclability"
+    },
+    {
+        "name": "Steel",
+        "area": 815.32,
+        "reusability": "medium reusability",
+        "recyclability": "high recyclability"
+    },
+    {
+        "name": "Glass",
+        "area": 10007.80,
+        "reusability": "low reusability",
+        "recyclability": "high recyclability"
+    },
+    {
+        "name": "Wood Flooring",
+        "area": 5857.15,
+        "reusability": "high reusability",
+        "recyclability": "medium recyclability"
+    },
+    {
+        "name": "Carpet",
+        "area": 4360.21,
+        "reusability": "low reusability",
+        "recyclability": "low recyclability"
+    },
+    {
+        "name": "Acoustic Ceiling Tiles",
+        "area": 9018.11,
+        "reusability": "medium reusability",
+        "recyclability": "medium recyclability"
+    },
+    {
+        "name": "Drywall",
+        "area": 22458.76,
+        "reusability": "medium reusability",
+        "recyclability": "medium recyclability"
+    }
+]
